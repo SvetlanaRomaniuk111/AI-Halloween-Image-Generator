@@ -50,7 +50,7 @@
 
 ### Запуск
 ```bash
-python main.py
+python src/ua/javarush/python/marathon/halloweenbot/myproject/bot.py
 ```
 
 ### Функціонал
